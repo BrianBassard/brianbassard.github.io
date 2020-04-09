@@ -1414,8 +1414,8 @@ textarea,
 select {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
-  color: #777777;
-  font-size: 20pt;
+  color: #3b3b3b;
+  font-size: 24pt;
   line-height: 1.75em;
 }
 
@@ -1646,7 +1646,7 @@ header {
 
 header > p {
   margin: 0.5em 0 0 0;
-  color: #aaa;
+  color: #3b3b3b;
 }
 
 @media screen and (max-width: 736px) {
@@ -2188,13 +2188,13 @@ body.is-preload #wrapper {
 }
 
 #main > .panel.intro header h1 {
-  line-height: 1.25em;
+  line-height: 1.5em;
   margin-bottom: 0;
 }
 
 #main > .panel.intro header p {
   letter-spacing: -0.015em;
-  font-size: 1.25em;
+  font-size: 1.5em;
   margin: 0.25em 0 0 0;
 }
 
@@ -2228,7 +2228,7 @@ body.is-preload #wrapper {
   }
 
   #main > .panel.intro header p {
-    font-size: 1em;
+    font-size: 1.5em;
     margin: 0.25em 0 0 0;
   }
 }
@@ -2290,5 +2290,23 @@ body.is-preload #wrapper {
   text-align: center;
   justify-content: center;
   margin-left: 50%;
-  margin-right:50%;
+  margin-right: 50%;
+  color: #999999;
+  border-radius: 50%;
+  font-size: 2rem;
+  margin-top: 1rem;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+/* section {
+  font-size: 2rem;
+} */
+
+.description {
+  border-left: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
+  padding: 1rem;
 }
