@@ -91,7 +91,7 @@ video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 100%;
+  font-size: 200%;
   font: inherit;
   vertical-align: baseline;
 }
@@ -2051,7 +2051,7 @@ body.is-preload #wrapper {
   -ms-transition: min-height 0.5s ease-in-out, max-height 0.5s ease-in-out;
   transition: min-height 0.5s ease-in-out, max-height 0.5s ease-in-out;
   /* border: 20px solid white; */
-  border-radius: 5rem;
+  border-radius: 2rem;
 }
 
 #main > .panel {
@@ -2284,4 +2284,11 @@ body.is-preload #wrapper {
 .contact-center {
   text-align: center;
   justify-content: center;
+}
+
+.code-base {
+  text-align: center;
+  justify-content: center;
+  margin-left: 50%;
+  margin-right:50%;
 }
