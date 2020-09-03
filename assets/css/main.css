@@ -1536,7 +1536,7 @@ br.clear {
     clear: both;
 }
 
-p,
+/* p,
 ul,
 ol,
 dl,
@@ -1544,7 +1544,7 @@ table,
 blockquote,
 form {
     margin-bottom: 2em;
-}
+} */
 
 /* Table */
 
