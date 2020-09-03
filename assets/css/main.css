@@ -2318,6 +2318,6 @@ p {
     font-size: 2rem;
 }
 
-#location {
-    font-size: .5rem;
+.location {
+    font-size: .5rem !important;
 }
