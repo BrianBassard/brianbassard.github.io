@@ -2323,4 +2323,5 @@ p {
     font-size: 1rem !important;
     text-align: center;
     align-items: center;
+    justify-content: center;
 }
