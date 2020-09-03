@@ -2312,6 +2312,7 @@ p {
     align-content: center;
     justify-content: center;
     text-align: center;
+    margin: 0;
 }
 
 .introduction {
@@ -2320,6 +2321,5 @@ p {
 
 .location {
     font-size: 1rem !important;
-    margin: 0;
-    justify-content: center;
+    align-items: center;
 }
