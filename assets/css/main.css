@@ -2320,4 +2320,6 @@ p {
 
 .location {
     font-size: 1rem !important;
+    margin: 0;
+    justify-content: center;
 }
